@@ -1,15 +1,11 @@
 # Hi there 👋
 
-## Wilkommen in mein GitHub Profil
-
-Jetzt lenne ich mich in [Neue Fische](https://www.neuefische.de/)
+## Wilkommen in mein GitHub Profil 😊
 
 ![cod gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx3bGhweTdxcjFrcjVmazNzMGw3YWI2dW83dDA4dm5tOWZndHg4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif)
 
-<!--
-**Alla-Nazarenko/Alla-Nazarenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Jetzt lenne ich mich in [Neue Fische](https://www.neuefische.de/)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
