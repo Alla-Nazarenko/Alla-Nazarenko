@@ -13,7 +13,10 @@
 ![cod gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx3bGhweTdxcjFrcjVmazNzMGw3YWI2dW83dDA4dm5tOWZndHg4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif)
 
 ### I am interested also in:
-- spending time with my daughter;
-- sport;
-- gardening;
-- creating something new
+- spending time with my daughter 👧;
+- sport 🤸‍♂️;
+- healthy food 🥦;
+- gardening 🌱;
+- creating something new and useful ⤵️
+
+![alt foto](https://github.com/Alla-Nazarenko/Alla-Nazarenko/blob/main/1-17.jpg.webp)
