@@ -2,8 +2,7 @@
 
 ## Welcome in my GitHub profil!
 ## About me:
-- I am 40 ears old;![GoogleLogoGIF (2)](https://github.com/Alla-Nazarenko/Alla-Nazarenko/assets/170520762/f3cd6df2-6e84-44bc-98fc-fdc5b8f55d1b)
-
+- I am 40 ears old;
 - I live in Aachen, Germany;
 - I have 6 years old daughter;
 - I like to develop
